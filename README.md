@@ -6,9 +6,9 @@
 
 The objective of this project was to apply all the NLP and Sentiment analysis knowledge that I learn with my coursera courses in the 2020 Coronavirus Pandemic, also this project helped me develope a Sentiment Analysis program to participate in the 2020 BBVA Hackathon (another project in this github).
 
-<img src="https://github.com/edco17/Coronavirus_Tweets/blob/main/images/1.JPG" alt="hi" class="inline"/>
+<img src="https://github.com/edco17/Edgar_Cardoso_Portfolio/blob/main/images/1.jpg" alt="hi" class="inline"/>
 
-<img src="https://github.com/edco17/Coronavirus_Tweets/blob/main/images/10.JPG" alt="hi" class="inline"/> <img src="https://github.com/edco17/Coronavirus_Tweets/blob/main/images/11.JPG" alt="hi" class="inline"/>
+<img src="https://github.com/edco17/Edgar_Cardoso_Portfolio/blob/main/images/10.jpg" alt="hi" class="inline"/> <img src="https://github.com/edco17/Edgar_Cardoso_Portfolio/blob/main/images/11.jpg" alt="hi" class="inline"/>
 
 # [Project 2: Covid_Detection](https://github.com/edco17/Covid_Detection)
 ## Neural Network for Covid Detection
