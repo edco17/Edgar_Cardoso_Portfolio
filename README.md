@@ -1,6 +1,7 @@
 # Edgar_Cardoso_Portfolio
 ## Portfolio of my best projects in Data Science
 
+### All links are in the titles
 # [Project 1: Coronavirus_Tweets](https://github.com/edco17/Coronavirus_Tweets)
 ## Natural Language Processing and Sentiment Analysis project for tag all the coronavirus tweets.
 
