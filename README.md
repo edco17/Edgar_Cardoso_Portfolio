@@ -17,7 +17,7 @@ The intention of this project was to understand and apply all my theorical knowl
 
 The objective was to build a Neural Network for Covid detection using the data from lung tomographies, and the winner will be the model with the best categorical metrics.
 
-![](/Covid_Detection/blob/main/covid.JPG) ![](/Covid_Detection/blob/main/health.JPG) ![](/Covid_Detection/blob/main/pneu.JPG)
+![](/images/covid.jpg) ![](/Covid_Detection/blob/main/health.JPG) ![](/Covid_Detection/blob/main/pneu.JPG)
 
 # [Project 3: Hackathon_BBVA_2020](https://github.com/edco17/Hackathon_BBVA_2020)
 ## Entrega Final Proyecto Hackathon BBVA 2020 Reto Social Listening
