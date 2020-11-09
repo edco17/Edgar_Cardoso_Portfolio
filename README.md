@@ -33,11 +33,9 @@ Gómez Herrera María Andrea Liliana
 
 Perrilliat García Ian
 
-### Dashboard:
-https://public.tableau.com/profile/edco17#!/vizhome/Compiladores_Hachathon2020_MxSL/Dashboard1?publish=yes
+### [Dashboard](https://public.tableau.com/profile/edco17#!/vizhome/Compiladores_Hachathon2020_MxSL/Dashboard1?publish=yes)
 
-### Compiladores de Ciencia MxSL Tool Hackathon 2020 video:
-https://www.youtube.com/watch?v=xXX6kMknGOE&feature=youtu.be
+### [Compiladores de Ciencia MxSL Tool Hackathon 2020 video](https://www.youtube.com/watch?v=xXX6kMknGOE&feature=youtu.be)
 
 ![](/images/dash.jpg)
 
