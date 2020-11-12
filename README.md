@@ -16,7 +16,7 @@ The objective of this project was to apply all the NLP and Sentiment analysis kn
 
 The intention of this project was to understand and apply all my theorical knowledge in Convolutional Neural Networks but it turn into a competition between my biomedical engineer friend and me. 
 
-The objective was to build a Neural Network for Covid detection using the data from lung tomographies, and the winner will be the model with the best categorical metrics.
+The objective was to build a Neural Network for Covid detection using the data from lung radiographies, and the winner will be the model with the best categorical metrics.
 
 ![](/images/covid.jpg) ![](/images/health.jpg) ![](/images/pneu.jpg)
 
