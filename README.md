@@ -60,9 +60,10 @@ Data Visualization
 
 ![](/images/titulo_wordcloud.png)
 
-# [Project 5: Hackathon 2020](https://github.com/edco17/Hackathon-2020)
+# Project 5: Hackathon 2020
 
 All the rigths are for Grupo Modelo, and the intellectual authors are Edgar Cardoso and Ian Perrilliat
+The repo is private for Copyrigth reasons.
 
 ## Objective
 
