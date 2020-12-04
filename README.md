@@ -48,4 +48,18 @@ First Data Visualization in Tableau: https://public.tableau.com/profile/edco17#!
 
 ![](/images/real_estate_mex_map_tableau.jpg)
 
-# [Project 4: Real Estate Mexico](https://github.com/edco17/Hackathon-2020)
+# [Project 5: Hackathon 2020](https://github.com/edco17/Hackathon-2020)
+
+All the rigths are for Grupo Modelo, and the intellectual authors are Edgar Cardoso and Ian Perrilliat
+
+## Objective
+
+The main purpose of this project was to found six distribution areas, this areas must have the clients with the shortest distance, same quantity of clients and same quantity of product distribution.
+
+The problem was solve, witH KMeans and forcing the areas to be the most equal in clients an products.
+
+Here are some graphs for explaining the process.
+
+![](/images/hola.png)
+
+![](/images/hola2.png)
