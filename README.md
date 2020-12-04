@@ -31,6 +31,8 @@ Garcés Mondragón Eduardo Arturo
 
 Gómez Herrera María Andrea Liliana
 
+Mengelle Mauricio
+
 Perrilliat García Ian
 
 ### [Dashboard](https://public.tableau.com/profile/edco17#!/vizhome/Compiladores_Hachathon2020_MxSL/Dashboard1?publish=yes)
@@ -56,7 +58,7 @@ All the rigths are for Grupo Modelo, and the intellectual authors are Edgar Card
 
 The main purpose of this project was to found six distribution areas, this areas must have the clients with the shortest distance, same quantity of clients and same quantity of product distribution.
 
-The problem was solve, witH KMeans and forcing the areas to be the most equal in clients an products.
+The problem was solve, with KMeans and forcing the areas to be the most equal in clients an products.
 
 Here are some graphs for explaining the process.
 
